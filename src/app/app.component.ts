@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'desafio-directivas-interpolacion';
+  alumnos = ['Juan', 'Pepito', 'Maria', 'Sara', 'Pedro', 'Roberto', 'Jean', 'Francisco', 'a', 'asd'];
 }
